@@ -1,0 +1,81 @@
+h1{
+    padding: 28px;
+    text-align: center;
+}
+h3{
+    padding:14px;
+    text-aling: center;
+}
+body{
+    background-color:antiquewhite ;
+}
+#opala{
+    width: 500px;
+    height: 340px;
+    position: absolute;
+    right: 10%;
+    border: 6px solid black;
+}
+#eclipse{
+    width: 500px;
+    position: absolute;
+    right: 30% ;
+    height: 340px;
+    object-fit: fill;
+    border: 6px solid black
+}
+#dodge {
+    width: 500px;
+    height: 340px;
+    position: absolute;
+    left: 10%;
+    object-fit: fill;
+    border: 6px solid black
+}
+#mustang {
+    width: 500px;
+    height: 340px;
+    position: absolute;
+    left: 30%;
+    object-fit: fill;
+    border: 6px solid black
+}
+#porshe {
+    width: 500px;
+    height: 340px;
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    object-fit: fill;
+    border: 6px solid black
+}
+#senna {
+    width: 500px;
+    height: 340px;
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    object-fit: fill;
+    border: 6px solid black
+}
+#supra {
+    width: 500px;
+    height: 340px;
+    position: absolute;
+    right: 10%;
+    top: 50%;
+    object-fit: fill;
+    border: 6px solid black
+}
+#bmw {
+    width: 500px;
+    height: 340px;
+    position: absolute;
+    right: 30%;
+    top: 50%;
+    object-fit: fill;
+    border: 6px solid black
+}
+
+
+/* top: 800px; */
